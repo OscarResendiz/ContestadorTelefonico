@@ -1,0 +1,85 @@
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Form1.resources
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.GenerateResource.Cache
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\Validador.dll
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\Validador.pdb
+D:\PROYECTOS\PROYECTOS NET 2008\TAPI\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.FormTelefono.resources
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Form1.resources
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.FormTelefono.resources
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe.config
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource.read.1.tlog
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource.write.1.tlog
+F:\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe.config
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.exe
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb
+F:\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe
+F:\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.pdb
+F:\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\Validador.pdb
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ResolveAssemblyReference.cache
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Form1.resources
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.FormTelefono.resources
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Properties.Resources.resources
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource.read.1.tlog
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource.write.1.tlog
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe.config
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Form1.resources
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.FormTelefono.resources
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.GenerateResource.Cache
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\Validador.pdb
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROYECTOS\PROYECTOS NET  2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe.config
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\Validador.pdb
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Form1.resources
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.FormTelefono.resources
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.GenerateResource.Cache
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe.config
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.exe
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.pdb
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csprojResolveAssemblyReference.cache
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Form1.resources
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.FormTelefono.resources
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Properties.Resources.resources
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.GenerateResource.Cache
+D:\INTERMEX\PROYECTOS\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe.config
+D:\INTERMEX\PROYECTOS\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe.config
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.exe
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\bin\Debug\ContestadorTelefonico.pdb
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.AssemblyReference.cache
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.SuggestedBindingRedirects.cache
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Form1.resources
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.FormTelefono.resources
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.Properties.Resources.resources
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.GenerateResource.cache
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.CoreCompileInputs.cache
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.csproj.CopyComplete
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.exe
+E:\RepositoriosGit\ContestadorTelefonico\ContestadorTelefonico\obj\Debug\ContestadorTelefonico.pdb

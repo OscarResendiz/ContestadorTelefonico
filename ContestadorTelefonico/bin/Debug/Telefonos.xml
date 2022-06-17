@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Telefonos>
+    <Numero>123456789</Numero>
+    <Nombre>oscar</Nombre>
+    <Departamento>sistemas</Departamento>
+    <Comentarios />
+    <ID>0</ID>
+  </Telefonos>
+</NewDataSet>

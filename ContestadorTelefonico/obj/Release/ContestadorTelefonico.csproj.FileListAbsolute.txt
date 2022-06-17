@@ -1,0 +1,10 @@
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Release\ResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Release\ContestadorTelefonico.Form1.resources
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Release\ContestadorTelefonico.FormTelefono.resources
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Release\ContestadorTelefonico.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Release\ContestadorTelefonico.csproj.GenerateResource.Cache
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Release\ContestadorTelefonico.exe.config
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Release\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\bin\Release\ContestadorTelefonico.pdb
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Release\ContestadorTelefonico.exe
+D:\PROYECTOS\PROYECTOS NER 2010\ContestadorTelefonico\ContestadorTelefonico\obj\Release\ContestadorTelefonico.pdb
